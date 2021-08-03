@@ -51,7 +51,7 @@
 		"autoprefixer": "^9.0.0",
 		"eslint": "7.28.0",
 		"eslint-plugin-prettier": "3.4.0",
-		"eslint-plugin-vue": "7.10.0",
+		"eslint-plugin-vue": "7.15.1",
 		"fork-ts-checker-webpack-plugin": "^6.1.1",
 		"node-sass": "^6.0.0",
 		"postcss": "^7.0.0",
